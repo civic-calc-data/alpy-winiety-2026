@@ -1,0 +1,31 @@
+kategoria,kraj,pozycja,okres_lub_zakres,cena_waluta,waluta,kurs_nbp_pln,cena_pln,tabela_nbp,data_nbp,oficjalny_sklep,uwagi
+winieta,Czechy,Winieta elektroniczna,1 dzien,230.00,CZK,0.1822,41.91,226/A/NBP/2026,2026-11-20,https://edalnice.gov.cz/,Wazna w wybrany dzien kalendarzowy do 23:59
+winieta,Czechy,Winieta elektroniczna,10 dni,300.00,CZK,0.1822,54.66,226/A/NBP/2026,2026-11-20,https://edalnice.gov.cz/,10 kolejnych dni kalendarzowych
+winieta,Czechy,Winieta elektroniczna,30 dni,480.00,CZK,0.1822,87.46,226/A/NBP/2026,2026-11-20,https://edalnice.gov.cz/,30 kolejnych dni kalendarzowych
+winieta,Czechy,Winieta elektroniczna,1 rok (365 dni),2570.00,CZK,0.1822,468.25,226/A/NBP/2026,2026-11-20,https://edalnice.gov.cz/,365 dni od wybranej daty
+winieta,Austria,Winieta elektroniczna,1 dzien,9.60,EUR,4.4559,42.78,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Dziala od razu przy zakupie online
+winieta,Austria,Winieta elektroniczna,10 dni,12.80,EUR,4.4559,57.04,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Dziala od razu przy zakupie online
+winieta,Austria,Winieta elektroniczna,2 miesiace,32.00,EUR,4.4559,142.59,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Online dla konsumenta wazna po 18 dniach
+winieta,Austria,Winieta elektroniczna,1 rok (do 31.01),106.80,EUR,4.4559,475.89,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Online dla konsumenta wazna po 18 dniach
+winieta,Szwajcaria,Winieta roczna,Roczna (14 mies.),40.00,CHF,4.8282,193.13,226/A/NBP/2026,2026-11-20,https://www.egovernment.ch/,Jedyny wariant od 1 grudnia do 31 stycznia kolejnego roku; obejmuje tunel sw. Gotarda
+winieta,Slowacja,Winieta elektroniczna,1 dzien,8.10,EUR,4.4559,36.09,226/A/NBP/2026,2026-11-20,https://eznamka.sk/,Wazna w wybrany dzien kalendarzowy do 23:59
+winieta,Slowacja,Winieta elektroniczna,10 dni,10.80,EUR,4.4559,48.12,226/A/NBP/2026,2026-11-20,https://eznamka.sk/,10 kolejnych dni kalendarzowych
+winieta,Slowacja,Winieta elektroniczna,30 dni,17.10,EUR,4.4559,76.20,226/A/NBP/2026,2026-11-20,https://eznamka.sk/,30 kolejnych dni kalendarzowych
+winieta,Slowacja,Winieta elektroniczna,365 dni,90.00,EUR,4.4559,401.03,226/A/NBP/2026,2026-11-20,https://eznamka.sk/,365 dni od wybranej daty
+winieta,Slowenia,Winieta elektroniczna (kat. 2A),7 dni,16.00,EUR,4.4559,71.29,226/A/NBP/2026,2026-11-20,https://evinjeta.dars.si/,Auta do 3.5 t i wys. nad przednia osia ponizej 1.30 m
+winieta,Slowenia,Winieta elektroniczna (kat. 2A),1 miesiac,32.00,EUR,4.4559,142.59,226/A/NBP/2026,2026-11-20,https://evinjeta.dars.si/,Miesiac kalendarzowy
+winieta,Slowenia,Winieta elektroniczna (kat. 2A),1 rok (12 mies.),117.50,EUR,4.4559,523.57,226/A/NBP/2026,2026-11-20,https://evinjeta.dars.si/,12 miesiecy od wybranej daty
+odcinek_specjalny,Austria,Przelecz Brenner (A13),1 przejazd,12.50,EUR,4.4559,55.70,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Platny osobno mimo winiety austriackiej
+odcinek_specjalny,Austria,Przelecz Brenner (A13),2 przejazdy (tam i z powrotem),25.00,EUR,4.4559,111.40,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Bilet na dwa przejazdy
+odcinek_specjalny,Austria,Tunel Tauern / Katschberg (A10),1 przejazd,14.50,EUR,4.4559,64.61,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Platny osobno mimo winiety austriackiej
+odcinek_specjalny,Austria,Tunel Tauern / Katschberg (A10),2 przejazdy (tam i z powrotem),29.00,EUR,4.4559,129.22,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Bilet na dwa przejazdy
+odcinek_specjalny,Austria-Slowenia,Tunel Karawanki,1 przejazd,9.00,EUR,4.4559,40.10,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Platny osobno mimo winiety
+odcinek_specjalny,Austria-Slowenia,Tunel Karawanki,2 przejazdy (tam i z powrotem),18.00,EUR,4.4559,80.21,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Bilet na dwa przejazdy
+odcinek_specjalny,Szwajcaria,Tunel sw. Gotarda,w cenie winiety,0.00,CHF,4.8282,0.00,226/A/NBP/2026,2026-11-20,https://www.egovernment.ch/,Brak osobnej oplaty dla aut do 3.5 t z wazna winieta roczna
+trasa_narciarska_7d,Austria (przez Niemcy),Winieta Austria 10 dni bez odcinkow specjalnych,tam i z powrotem (7-10 dni),12.80,EUR,4.4559,57.04,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,Autostrady w Niemczech bezplatne dla aut do 3.5 t
+trasa_narciarska_7d,Austria (przez Czechy),Winiety Czechy 10 dni + Austria 10 dni bez tuneli,tam i z powrotem (7-10 dni),111.70,PLN,1.0000,111.70,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,300 CZK + 12.80 EUR
+trasa_narciarska_7d,Austria Tyrol (przez Niemcy i Brenner),Winieta Austria 10 dni + Brenner 2 przejazdy,tam i z powrotem (7-10 dni),168.44,PLN,1.0000,168.44,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,12.80 EUR (57.04 PLN) + 25.00 EUR (111.40 PLN)
+trasa_narciarska_7d,Szwajcaria (przez Niemcy),Winieta Szwajcaria roczna z tunelem sw. Gotarda,tam i z powrotem (caly sezon),40.00,CHF,4.8282,193.13,226/A/NBP/2026,2026-11-20,https://www.egovernment.ch/,Winieta wazna do 31 stycznia kolejnego roku
+trasa_narciarska_7d,Austria Tyrol (przez Czechy i Brenner),Winiety Czechy 10 dni + Austria 10 dni + Brenner 2 przejazdy,tam i z powrotem (7-10 dni),223.10,PLN,1.0000,223.10,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,300 CZK + 12.80 EUR + 25.00 EUR
+trasa_narciarska_7d,Wlochy Dolomity (przez Czechy Austrie i Brenner),Winiety Czechy 10 dni + Austria 10 dni + Brenner 2 przejazdy,tam i z powrotem do granicy IT,223.10,PLN,1.0000,223.10,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,We Wloszech dolicz bramki autostradowe za przejechane kilometry
+trasa_narciarska_7d,Austria Karyntia (przez Czechy i Tauern),Winiety Czechy 10 dni + Austria 10 dni + Tauern 2 przejazdy,tam i z powrotem (7-10 dni),240.92,PLN,1.0000,240.92,226/A/NBP/2026,2026-11-20,https://shop.asfinag.at/,300 CZK + 12.80 EUR + 29.00 EUR

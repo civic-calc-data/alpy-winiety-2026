@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Jeśli korzystasz z tego zestawu danych w artykule, analizie lub porównaniu tras, podaj źródło SprawdzTrase.pl zgodnie z poniższymi danymi."
+title: "Koszt przejazdu w Alpy 2026/2027: Oficjalne ceny winiet i tuneli alpejskich w PLN"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+url: "https://sprawdztrase.pl/raporty/narty-w-alpach-2026-2027/"
+authors:
+  - name: "SprawdzTrase.pl"
+    website: "https://sprawdztrase.pl/"
+keywords:
+  - winiety
+  - alpy
+  - narty
+  - austria
+  - szwajcaria
+  - wlochy
+  - czechy
+  - brenner
+  - tauern
+  - open-data
+abstract: "Otwarty plik CSV z urzędowymi cenami winiet (Czechy, Austria, Szwajcaria, Słowacja, Słowenia), opłat za odcinki specjalne (Brenner, Tauern, Karawanki, tunel św. Gotarda) oraz sumarycznymi kosztami 7 tras narciarskich z Polski po kursie NBP tabela A nr 226/A/NBP/2026 z 20.11.2026."
